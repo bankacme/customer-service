@@ -13,3 +13,8 @@ spring:
 
 bank:
   zone: America/Lima
+
+# Sin registro en Eureka durante las pruebas.
+eureka:
+  client:
+    enabled: false
