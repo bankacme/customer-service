@@ -9,7 +9,7 @@ spring:
       enabled: false
   data:
     mongodb:
-      uri: mongodb://localhost:27017/bank_customer?directConnection=true
+      uri: mongodb://localhost:27017/bank_customer_test?directConnection=true
 
 bank:
   zone: America/Lima
